@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewGallery</string>
+    <string name="iv_content">Card Picture</string>
+</resources>
